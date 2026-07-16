@@ -1,7 +1,7 @@
 
 ## V-Modal AI
 
-Collection of SDK for developpers
+Collection of SDK for Visual Search
 
 
 
