@@ -1,7 +1,9 @@
 
 ## V-Modal AI
 
-Collection of SDK for Visual Search
+Collection of SDK for Multimodal Video, Image Search on any platform: Android, IOS, IoT device, Web, Camera, ...
+
+Visit `www.v-modal.com` : Search Anything, Anywhere
 
 
 
