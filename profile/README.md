@@ -3,7 +3,7 @@
 
 Collection of SDK for Multimodal Video, Image Search on any platform: Android, IOS, IoT device, Web, Camera, ...
 
-Visit `www.v-modal.com` : Search Anything, Anywhere
+Beta testing release now, Visit `www.v-modal.com` to get a limited Beta API Key
 
 
 
