@@ -4,7 +4,7 @@
 Collection of SDK for Multimodal Video, Image Search on any platform: Android, IOS, IoT device, Web, Camera, ...
 
 Beta Version:
-      - Visit [v-modal.com](www.v-modal.com) to get a free Beta API Key
+      - Visit [v-modal.com](https://www.v-modal.com) to get a free Beta API Key
 
 SDK : 
 
