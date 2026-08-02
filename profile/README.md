@@ -1,7 +1,11 @@
 
 ## V-Modal AI
 
-Collection of SDK for Multimodal Video, Image Search on any platform: Android, IOS, IoT device, Web, Camera, ...
+- V-Modal is an AI-powered multimodal video and image search platform designed to help mobile and web applications index, process, and search through video content using natural language and visual queries. 
+
+- Instead of relying on rigid, manually entered tags or simple file descriptions, the platform allows users to find specific moments inside videos by typing plain-text descriptions (e.g., searching for "red car at night"). 
+
+- Collection of SDK for Multimodal Video, Image Search on any platform: Android, IOS, IoT device, Web, Camera, ...
 
 Beta Version:
       - Visit [v-modal.com](https://www.v-modal.com) to get a free Beta API Key
@@ -9,7 +13,6 @@ Beta Version:
 SDK : 
 
      - Flutter SDK : https://github.com/v-modal/vmodal_sdk_flutter
-
      - Android SDK : https://github.com/v-modal/vmodal_sdk_android
 
 
@@ -22,3 +25,27 @@ SDK :
 ## SDK Architecture
 
 <img width="1147" height="758" alt="image" src="https://github.com/user-attachments/assets/8343ebb0-6d12-4870-afce-857da4e86b6a" />
+
+
+
+
+
+
+------------------------------
+## Key Capabilities
+* 
+* Natural Language Video Search: Analyzes actual video frames and contextual data so users can search video content using conversational phrases.
+* Multimodal Queries: Supports search structures across multiple inputs, allowing platform integration for video-to-video, text-to-video, and image-based search intents.
+* Cross-Platform SDK Support: Offers tailored developer toolkits including a native [Android Kotlin SDK](https://github.com/v-modal/vmodal_sdk_android) and a cross-platform [Flutter SDK wrapper](https://github.com/v-modal) for uniform implementation.
+* Optimized Mobile Media Handling: Features built-in memory management tools—such as signed streaming URLs and chunked multipart video uploads—to ensure massive video archives do not crash or slow down mobile devices.
+* 
+
+## Target Use Cases
+* 
+* Media & Entertainment Apps: Enabling viewers to jump to precise time-stamps or specific scenes inside a massive video catalog.
+* E-Commerce & Social Commerce: Powering visual search where users can pull up video clips of products based on images or descriptions.
+* Surveillance & Security Systems: Searching through long stretches of security or dashcam footage for highly specific visual indicators.
+* 
+
+------------------------------
+If you are a developer looking to integrate this functionality, would you like to see a basic code snippet on how to initialize a query using the V-Modal GitHub Repositories, or do you need help setting up API key rotation? [1, 8] 
