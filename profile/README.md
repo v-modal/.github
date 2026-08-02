@@ -48,4 +48,4 @@ SDK :
 * 
 
 ------------------------------
-If you are a developer looking to integrate this functionality, would you like to see a basic code snippet on how to initialize a query using the V-Modal GitHub Repositories, or do you need help setting up API key rotation? [1, 8] 
+
