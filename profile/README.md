@@ -22,13 +22,6 @@ SDK :
 
 
 
-## SDK Architecture
-
-<img width="1147" height="758" alt="image" src="https://github.com/user-attachments/assets/8343ebb0-6d12-4870-afce-857da4e86b6a" />
-
-
-
-
 
 
 ------------------------------
