@@ -1,2 +1,3 @@
 # .github
- Search anything anwyhere: MultiModal video search
+V-Modal
+Search anything anwyhere: MultiModal Video Search
