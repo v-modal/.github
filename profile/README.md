@@ -2,7 +2,7 @@
 ## V-Modal AI
 
 Beta Version:
-      - Visit [v-modal.com](https://www.v-modal.com) to get a limited Beta API Key
+      - Visit [v-modal.ai](https://www.v-modal.com) to get a limited Beta API Key
 
       
 - V-Modal is an AI-powered multimodal video and image search platform designed to help mobile and web applications index, process, and search through video content using natural language and visual queries. 
@@ -12,11 +12,13 @@ Beta Version:
 - Collection of SDK for Multimodal Video, Image Search on any platform: Android, IOS, IoT device, Web, Camera, ...
 
 
-
 SDK : 
+     - Flutter SDK : [https://github.com/v-modal/vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter)
+     - Android SDK : [https://github.com/v-modal/vmodal_sdk_android](https://github.com/v-modal/vmodal_sdk_android) 
 
-     - Flutter SDK : https://github.com/v-modal/vmodal_sdk_flutter
-     - Android SDK : https://github.com/v-modal/vmodal_sdk_android
+
+- Discord Channel: [V Mooda AI](https://discord.gg/XGxgBQqkaY)
+- Reddit Channel:  [V Mooda AI Reddit](https://www.reddit.com/r/v_modal/)
 
 
 
