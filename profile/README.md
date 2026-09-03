@@ -19,7 +19,7 @@ Discord Channel Support: [V Mooda AI](https://discord.gg/XGxgBQqkaY)
 
 
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/63dcffb3-c588-4a31-a3df-8972f7c22a56" />
+<img width="800" height="600"  align="center" alt="image" src="https://github.com/user-attachments/assets/63dcffb3-c588-4a31-a3df-8972f7c22a56" />
 
 
 
