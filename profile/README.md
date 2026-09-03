@@ -18,7 +18,8 @@ SDK :
      
 - [Android SDK](https://github.com/v-modal/vmodal_sdk_android) 
 
-- Discord Channel: [V Mooda AI](https://discord.gg/XGxgBQqkaY)
+
+Discord Channel: [V Mooda AI](https://discord.gg/XGxgBQqkaY)
 
 
 
