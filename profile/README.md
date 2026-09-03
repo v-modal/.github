@@ -8,18 +8,18 @@
 - Collection of SDK for Multimodal Video, Image Search on any platform: Android, IOS, IoT device, Web, Camera, ...
 
 
-SDK : 
+Currently, we have released only SDK for mobile devices:
 
 - [Flutter SDK](https://github.com/v-modal/vmodal_sdk_flutter)
      
 - [Android SDK](https://github.com/v-modal/vmodal_sdk_android) 
 
 
-Discord Channel: [V Mooda AI](https://discord.gg/XGxgBQqkaY)
+Discord Channel Support: [V Mooda AI](https://discord.gg/XGxgBQqkaY)
 
 
 
-<img width="1535" height="1024" alt="image" src="https://github.com/user-attachments/assets/63dcffb3-c588-4a31-a3df-8972f7c22a56" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/63dcffb3-c588-4a31-a3df-8972f7c22a56" />
 
 
 
