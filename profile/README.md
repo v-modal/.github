@@ -1,9 +1,5 @@
 
 ## V-Modal AI
-
-Beta Version:
-      - Visit [v-modal.ai](https://www.v-modal.com) to get a limited Beta API Key
-
       
 - V-Modal is an AI-powered multimodal video and image search platform designed to help mobile, Smart Glasses, Physical AI devices to  index, process, and search through video content using natural language and visual queries. 
 
