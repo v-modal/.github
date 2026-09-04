@@ -1,4 +1,4 @@
-<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="V-Modal AI — multimodal video and image search">
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="V-Modal AI — Visual Memory Layer: Find, recall any visual content">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#0B1020"/>
@@ -65,8 +65,8 @@
   <!-- headline -->
   <text x="290" y="140" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="800" fill="#F4F6FF" letter-spacing="-1">V-Modal AI</text>
   <rect x="294" y="158" width="330" height="6" rx="3" fill="url(#accent)"/>
-  <text x="290" y="204" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="500" fill="#AAB6E8">Find any moment in any video — with plain language.</text>
-  <text x="290" y="240" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#6E7BB0">Multimodal video &amp; image search SDKs for Mobile, Smart Glasses, Cameras and Physical AI.</text>
+  <text x="290" y="204" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="500" fill="#AAB6E8">Visual Memory Layer</text>
+  <text x="290" y="240" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#6E7BB0">Find, recall any visual content</text>
 
   <!-- query chip, right -->
   <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace">

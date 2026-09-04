@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/v-modal/.github/main/profile/assets/banner.svg" alt="V-Modal AI — find any moment in any video with plain language" width="100%">
+<img src="https://raw.githubusercontent.com/v-modal/.github/main/profile/assets/banner.svg" alt="V-Modal AI — Visual Memory Layer: Find, Recall any visual content" width="100%">
 
 <br><br>
 
