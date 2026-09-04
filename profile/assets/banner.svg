@@ -1,0 +1,87 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="V-Modal AI — multimodal video and image search">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset="0.55" stop-color="#101A38"/>
+      <stop offset="1" stop-color="#0B1226"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="380" y1="120" x2="820" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6C63FF"/>
+      <stop offset="0.5" stop-color="#4EA8FF"/>
+      <stop offset="1" stop-color="#3DDCB4"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4EA8FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#4EA8FF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#3DDCB4" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#6C63FF" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#6C63FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#3DDCB4" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#3DDCB4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.04"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="16" fill="url(#grid)"/>
+  <circle cx="150" cy="60" r="220" fill="url(#glow1)"/>
+  <circle cx="1060" cy="280" r="240" fill="url(#glow2)"/>
+
+  <!-- film strip motif, left -->
+  <g opacity="0.9">
+    <rect x="70" y="96" width="150" height="128" rx="14" fill="#141C3A" stroke="#2A3766" stroke-width="2"/>
+    <rect x="86" y="112" width="118" height="96" rx="8" fill="#0D142C"/>
+    <!-- play triangle -->
+    <path d="M130 138 L172 160 L130 182 Z" fill="url(#accent)"/>
+    <!-- sprocket holes -->
+    <g fill="#2A3766">
+      <rect x="76" y="104" width="8" height="10" rx="2"/>
+      <rect x="76" y="126" width="8" height="10" rx="2"/>
+      <rect x="76" y="148" width="8" height="10" rx="2"/>
+      <rect x="76" y="170" width="8" height="10" rx="2"/>
+      <rect x="76" y="192" width="8" height="10" rx="2"/>
+      <rect x="206" y="104" width="8" height="10" rx="2"/>
+      <rect x="206" y="126" width="8" height="10" rx="2"/>
+      <rect x="206" y="148" width="8" height="10" rx="2"/>
+      <rect x="206" y="170" width="8" height="10" rx="2"/>
+      <rect x="206" y="192" width="8" height="10" rx="2"/>
+    </g>
+    <!-- magnifier over the frame -->
+    <circle cx="188" cy="132" r="22" fill="none" stroke="url(#accent)" stroke-width="5"/>
+    <line x1="204" y1="148" x2="222" y2="166" stroke="url(#accent)" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <!-- scanning beam -->
+  <rect x="70" y="158" width="150" height="3" fill="url(#beam)">
+    <animate attributeName="y" values="106;204;106" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- headline -->
+  <text x="290" y="140" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="800" fill="#F4F6FF" letter-spacing="-1">V-Modal AI</text>
+  <rect x="294" y="158" width="330" height="6" rx="3" fill="url(#accent)"/>
+  <text x="290" y="204" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="500" fill="#AAB6E8">Find any moment in any video — with plain language.</text>
+  <text x="290" y="240" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#6E7BB0">Multimodal video &amp; image search SDKs for Mobile, Smart Glasses, Cameras and Physical AI.</text>
+
+  <!-- query chip, right -->
+  <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace">
+    <rect x="880" y="86" width="250" height="46" rx="23" fill="#141C3A" stroke="#2A3766" stroke-width="1.5"/>
+    <circle cx="908" cy="109" r="9" fill="none" stroke="#4EA8FF" stroke-width="2.5"/>
+    <line x1="914" y1="115" x2="921" y2="122" stroke="#4EA8FF" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="934" y="115" font-size="16" fill="#D7DEFB">"red car at night"</text>
+    <!-- result timestamps -->
+    <g font-size="13">
+      <rect x="896" y="150" width="96" height="30" rx="15" fill="#182350" stroke="#6C63FF" stroke-opacity="0.6"/>
+      <text x="912" y="169" fill="#9FA9FF">▶ 02:14</text>
+      <rect x="1002" y="150" width="96" height="30" rx="15" fill="#12294a" stroke="#4EA8FF" stroke-opacity="0.6"/>
+      <text x="1018" y="169" fill="#8FC6FF">▶ 07:41</text>
+      <rect x="949" y="190" width="96" height="30" rx="15" fill="#0f2f3d" stroke="#3DDCB4" stroke-opacity="0.6"/>
+      <text x="965" y="209" fill="#7CE8CB">▶ 15:03</text>
+    </g>
+  </g>
+</svg>
