@@ -17,7 +17,8 @@
 <p>
 V-Modal AI provides Visual Memory capabilities for Mobile, Edge devices, Smart Glasses and Physical AI devices.<br>
 
-Find and retrieve any visual data (Video, Images) right in your app or your device by providing text or image query:  "Find red car at night".<br>
+Find and retrieve any visual data (Video, Images) right in your app or your device.<br>
+by providing text or image query:  "Find red car at night" or some input image.<br>
 No manual tags. No scrubbing timelines. Just ask.
 </p>
 
@@ -66,10 +67,12 @@ One platform, native toolkits everywhere. Mobile is live today — more surfaces
 
 ## 🎯 Who builds on V-Modal
 
-* **Media & entertainment apps** — let viewers jump to the precise scene inside a massive video catalog.
-* **E-commerce & social commerce** — visual search that surfaces product clips from an image or a description.
-* **Surveillance & security** — scan hours of security or dashcam footage for one specific visual indicator.
-* **Smart glasses & physical AI** — give devices a visual memory they can query.
+* **Media Asset Owner & Mobile Apps** — let viewers jump to the precise scene inside video catalogs.
+* **Physical AI** — give devices a visual memory they can query anytime.
+* **Smart Glasses** — give devices a visual memory they can query anytime.
+* **E-commercee** — visual search that surfaces product clips from an image or a description.
+* **CCTV** — scan hours of  footage for one specific visual indicator.
+
 
 ## 🤝 Community
 
