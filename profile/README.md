@@ -8,7 +8,7 @@
 
 <br><br>
 
-<h3>Visual Memory Stack</h3>
+<h1>V-Modal AI</h1>
 
 <p>
 V-Modal AI provides Visual Memory capabilities for Mobile, Edge devices, Smart Glasses and Physical AI devices.<br>
