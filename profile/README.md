@@ -22,8 +22,9 @@ No manual tags. No scrubbing timelines. Just ask.
 </div>
 
 <br>
-
+<div align="center">
 <img width="800" height="600" align="center" alt="V-Modal AI in action" src="https://github.com/user-attachments/assets/63dcffb3-c588-4a31-a3df-8972f7c22a56" />
+</div>
 
 <br>
 
