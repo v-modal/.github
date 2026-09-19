@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/v-modal/.github/main/profile/assets/banner.svg" alt="V-Modal AI — Visual Memory Layer: Find, Recall any visual content" width="100%">
-
-<br><br>
-
 <a href="https://www.v-modal.com"><img src="https://img.shields.io/badge/Website-v--modal.com-4EA8FF?logo=googlechrome&logoColor=white" alt="Website"></a>
 <a href="https://discord.gg/XGxgBQqkaY"><img src="https://img.shields.io/badge/Discord-join%20us-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
 <a href="https://github.com/v-modal/vmodal_sdk_flutter"><img src="https://img.shields.io/badge/Flutter-SDK-02569B?logo=flutter&logoColor=white" alt="Flutter SDK"></a>
