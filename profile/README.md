@@ -12,7 +12,7 @@
 
 <br><br>
 
-<h3>Search inside video like you search the web.</h3>
+<h3>Visual Memory Stack</h3>
 
 <p>
 V-Modal AI provides Visual Memory capabilities for Mobile, Edge devices, Smart Glasses and Physical AI devices.<br>
@@ -21,6 +21,7 @@ Find and retrieve any visual data (Video, Images) right in your app or your devi
 by providing text or image query:  "Find red car at night" or some input image.<br>
 No manual tags. No scrubbing timelines. Just ask.
 </p>
+
 
 </div>
 
