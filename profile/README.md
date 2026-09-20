@@ -8,6 +8,9 @@
 <a href="https://discord.gg/XGxgBQqkaY"><img src="https://img.shields.io/badge/Discord-join%20us-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
 <a href="https://github.com/v-modal/vmodal_sdk_flutter"><img src="https://img.shields.io/badge/Flutter-SDK-02569B?logo=flutter&logoColor=white" alt="Flutter SDK"></a>
 <a href="https://github.com/v-modal/vmodal_sdk_android"><img src="https://img.shields.io/badge/Android-SDK-3DDC84?logo=android&logoColor=white" alt="Android SDK"></a>
+<a href="https://github.com/v-modal/vmodal_sdk_smartglass"><img src="https://img.shields.io/badge/Smart_Glasses-SDK-5C2D91" alt="Smart Glasses SDK"></a>
+<a href="https://github.com/v-modal/vmodal_sdk_swift_iphoneduo"><img src="https://img.shields.io/badge/Swift_iPhone_Duo-SDK-F05138?logo=swift&logoColor=white" alt="Swift iPhone Duo SDK"></a>
+<a href="https://github.com/v-modal/vmodal_sdk_robotics"><img src="https://img.shields.io/badge/Robotics-SDK-6C757D" alt="Robotics SDK"></a>
 <img src="https://img.shields.io/badge/iOS-via%20Flutter-000000?logo=apple&logoColor=white" alt="iOS via Flutter">
 
 <br><br>
@@ -49,20 +52,22 @@ Add an SDK to your app, configure a project with your API key, upload a video, a
 
 ## 📦 SDKs
 
-One platform, native toolkits everywhere. Mobile is live today — more surfaces are on the way.
+One platform, native toolkits everywhere. Mobile, smart glasses, and robotics are live today — more surfaces are on the way.
 
 | Platform | Status | Repo |
 |---|---|---|
 | 🐦 Flutter (Android + iOS) | ✅ Released | [vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter) |
 | 🤖 Android (Kotlin, native) | ✅ Released | [vmodal_sdk_android](https://github.com/v-modal/vmodal_sdk_android) |
-| 🕶️ Smart Glasses / IoT / Camera | 🔜 Coming soon | — |
+| 🕶️ Smart Glasses / IoT / Camera | ✅ Released | [vmodal_sdk_smartglass](https://github.com/v-modal/vmodal_sdk_smartglass) |
+| 📱 Swift iPhone Duo | ✅ Released | [vmodal_sdk_swift_iphoneduo](https://github.com/v-modal/vmodal_sdk_swift_iphoneduo) |
+| 🦾 Robotics | ✅ Released | [vmodal_sdk_robotics](https://github.com/v-modal/vmodal_sdk_robotics) |
 | 🌐 Web | 🔜 Coming soon | — |
 
 ## ⚡ Key capabilities
 
 * **Natural-language video search** — analyzes actual video frames and contextual data, so users search video content with conversational phrases.
 * **Multimodal queries** — text-to-video, image-to-video and video-to-video search intents through one API.
-* **Cross-platform SDKs** — a native [Android Kotlin SDK](https://github.com/v-modal/vmodal_sdk_android) and a cross-platform [Flutter SDK](https://github.com/v-modal/vmodal_sdk_flutter) with a uniform, typed surface.
+* **Cross-platform SDKs** — toolkits for [Flutter](https://github.com/v-modal/vmodal_sdk_flutter), [Android](https://github.com/v-modal/vmodal_sdk_android), [Smart Glasses](https://github.com/v-modal/vmodal_sdk_smartglass), [Swift iPhone Duo](https://github.com/v-modal/vmodal_sdk_swift_iphoneduo), and [Robotics](https://github.com/v-modal/vmodal_sdk_robotics) with a uniform, typed surface.
 * **Built for mobile media** — signed streaming URLs, chunked multipart uploads, progress and real cancellation, so massive video archives never crash or slow down devices.
 
 ## 🎯 Who builds on V-Modal
