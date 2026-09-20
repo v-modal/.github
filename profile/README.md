@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/v-modal/.github/main/profile/assets/banner.svg" alt="V-Modal AI — Visual Memory Layer: Find, Recall any visual content" width="100%">
-
-<br><br>
-
 <a href="https://www.v-modal.com"><img src="https://img.shields.io/badge/Website-v--modal.com-4EA8FF?logo=googlechrome&logoColor=white" alt="Website"></a>
 <a href="https://discord.gg/XGxgBQqkaY"><img src="https://img.shields.io/badge/Discord-join%20us-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
 <a href="https://github.com/v-modal/vmodal_sdk_flutter"><img src="https://img.shields.io/badge/Flutter-SDK-02569B?logo=flutter&logoColor=white" alt="Flutter SDK"></a>
@@ -15,7 +11,7 @@
 
 <br><br>
 
-<h3>Search inside video like you search the web.</h3>
+<h1>V-Modal AI</h1>
 
 <p>
 V-Modal AI provides Visual Memory capabilities for Mobile, Edge devices, Smart Glasses and Physical AI devices.<br>
@@ -25,11 +21,13 @@ by providing text or image query:  "Find red car at night" or some input image.<
 No manual tags. No scrubbing timelines. Just ask.
 </p>
 
+
 </div>
 
 <br>
-
+<div align="center">
 <img width="800" height="600" align="center" alt="V-Modal AI in action" src="https://github.com/user-attachments/assets/63dcffb3-c588-4a31-a3df-8972f7c22a56" />
+</div>
 
 <br>
 
