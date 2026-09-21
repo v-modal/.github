@@ -1,3 +1,5 @@
 # .github
 V-Modal
-Search anything anwyhere: MultiModal Video Search
+Visual Memory Layer: Search anything with precision.
+
+
