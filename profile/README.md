@@ -13,6 +13,7 @@
 
 <h1>V-Modal AI</h1>
 
+
 <p>
 V-Modal AI provides Visual Search capabilities for Mobile, Edge devices, Smart Glasses and Physical AI devices.<br>
 
@@ -26,7 +27,8 @@ No manual tags. No scrubbing timelines. Just ask.
 
 <br>
 <div align="center">
-<img width="800" height="600" align="center" alt="V-Modal AI in action" src="https://github.com/user-attachments/assets/63dcffb3-c588-4a31-a3df-8972f7c22a56" />
+<img width="1535" height="1024" alt="home_physical_ai_glass" src="https://github.com/user-attachments/assets/b25b24ee-f561-4c54-96c0-47b3966c545a" />
+  
 </div>
 
 <br>
