@@ -27,9 +27,7 @@ No manual tags. No scrubbing timelines. Just ask.
 
 <br>
 <div align="center">
-<!-- <img width="1535" height="1024" alt="home_physical_ai_glass" src="https://github.com/user-attachments/assets/b25b24ee-f561-4c54-96c0-47b3966c545a" />
 
--->
 
 <img width="1535" height="1024" alt="factory_background" src="https://github.com/user-attachments/assets/1ffd1306-2363-4d43-a7b9-a19a01c9b7e0" />
 
