@@ -15,7 +15,7 @@
 
 
 <p>
-V-Modal AI provides Visual Search capabilities for Mobile, Edge devices, Smart Glasses and Physical AI devices.<br>
+V-Modal AI provides Visual Search capabilities for Physical AI stack, Edge/Mobile, Smart Glasses<br>
 
 Find and retrieve any visual data (Video, Images) right in your app or your device.<br>
 by providing text or image query:  "Find red car at night" or some input image.<br>
